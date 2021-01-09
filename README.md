@@ -2,7 +2,7 @@
 
 This repository contains the 'Linear Regression Analysis of Business Problem Project' made by me.
 
-In this project I identified the business problem whose Dataset is given below and then create a linear regression model in Python for analyzing its result.
+In this project I identified the business problem whose Dataset is given below and then create a Linear Regression Model in Python for analyzing its result.
 
 STEP-1: Download the dataset from the link https://drive.google.com/file/d/171jIxEhN07ZtRi10A9zC3w3OUimosufx/view?usp=sharing
 
