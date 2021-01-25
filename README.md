@@ -4,7 +4,7 @@ This repository contains the 'Linear Regression Analysis of Business Problem Pro
 
 In this project I identified the business problem whose Dataset is given below and then create a Linear Regression Model in Python for analyzing its result.
 
-STEP-1: Download the dataset from the link https://drive.google.com/file/d/171jIxEhN07ZtRi10A9zC3w3OUimosufx/view?usp=sharing
+STEP-1: Download the dataset from the link https://drive.google.com/file/d/1DRJp4FE_xf8_HGyU2n6doTFcDF0kuB-l/view?usp=sharing
 
 STEP-2: Then doing the Data Preprocessing and Exploratory Data Analysis.
 
